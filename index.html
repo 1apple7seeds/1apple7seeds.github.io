@@ -6,5 +6,6 @@ title: "Home"
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
+  {% include about_me.md title="About me" %}
   {% include archive.html title="Posts" %}
 {% endif %}
