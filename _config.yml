@@ -1,6 +1,6 @@
 title: "Carlo Wiesse"
 author: "Carlo Wiesse"
-description: "From Peru <i class='flag flag-peru'></i> + University of Kansas <i class='flag flag-united-states'></i> + Hochshule Bonn-Rhein-Sieg <i class='flag flag-germany'></i>"
+description: "University of Kansas :us: + Hochshule Bonn-Rhein-Sieg :de:"
 #description: "<i class={flag flag-peru}></i>"
 permalink: /:title/
 lang: "en"
@@ -11,7 +11,7 @@ date_format: "%B %d, %Y"
 
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+show_sidebar: true        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
