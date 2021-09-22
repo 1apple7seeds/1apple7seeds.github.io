@@ -1,10 +1,10 @@
 title: "Carlo Wiesse"
 author: "Carlo Wiesse"
-description: "From Peru :peru:"
-#description: "From Peru :peru: \n University of Kansas :us: \n Hochshule Bonn-Rhein-Sieg :de:"
+#description: "From Peru :peru:"
+description: "From Peru :peru: + University of Kansas :us: + Hochshule Bonn-Rhein-Sieg :de:"
 permalink: /:title/
 lang: "en"
-encoding: "utf-8"
+#encoding: "utf-8"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
@@ -12,14 +12,14 @@ date_format: "%B %d, %Y"
 
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home", icon: home}
-  - {file: "README.md", title: "About me", icon: address-card}
+  - {file: "resume.pdf", title: "Resume", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:carlo.wiesse@smail.inf.h-brs.de"}
