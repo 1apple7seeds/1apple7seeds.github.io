@@ -1,6 +1,7 @@
 title: "Carlo Wiesse"
 author: "Carlo Wiesse"
-description: "From Peru <i class="flag flag-peru"></i> + University of Kansas <i class="flag flag-united-states"></i> + Hochshule Bonn-Rhein-Sieg <i class="flag flag-germany"></i>"
+description: "From Peru <i class='flag flag-peru'></i> + University of Kansas <i class='flag flag-united-states'></i> + Hochshule Bonn-Rhein-Sieg <i class='flag flag-germany'></i>"
+#description: "<i class={flag flag-peru}></i>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
