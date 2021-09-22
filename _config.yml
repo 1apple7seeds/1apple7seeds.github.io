@@ -1,8 +1,10 @@
 title: "Carlo Wiesse"
 author: "Carlo Wiesse"
-description: "From Peru :peru: \n University of Kansas :us: \n Hochshule Bonn-Rhein-Sieg :de:"
+description: "From Peru :peru:"
+#description: "From Peru :peru: \n University of Kansas :us: \n Hochshule Bonn-Rhein-Sieg :de:"
 permalink: /:title/
 lang: "en"
+encoding: "utf-8"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
