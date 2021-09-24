@@ -46,7 +46,7 @@ layout: page
 ## Technical Skills
 
 - Operating systems: Linux, Windows
-- Programming languges: Python, C++, MATLAB, Java, R
+- Programming languages: Python, C++, MATLAB, Java, R
 - Machine learning: Tensorflow
 - Modeling software: AutoCAD, Siemens NX
 - Other tools: ROS, Git, Jupyter Notebook, Excel, Tableau, Latex
