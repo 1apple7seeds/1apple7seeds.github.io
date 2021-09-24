@@ -1,22 +1,24 @@
 <article>
   <header>
     <h1>About me</h1>
-    
+  </header>
+  
+  <article>
     <style type="text/css">
-    #wrap {
-       width:700px;
-       margin:0 auto;
-    }
-    #left_col {
-       float:left;
-       width:100px;
-    }
-    #right_col {
-       float:right;
-       width:600px;
-    }
-    </style>
-    
+      #wrap {
+         width:700px;
+         margin:0 auto;
+      }
+      #left_col {
+         float:left;
+         width:100px;
+      }
+      #right_col {
+         float:right;
+         width:600px;
+      }
+      </style>
+
     <div id="wrap">
       <div id="left_col">
         <!--img src="pic1.png" class="inline" width="131" height="236"/-->
@@ -31,7 +33,8 @@
         </ul>
       </div>
     </div>
-  </header>
+  </article>
+  
   <h1>{{ include.title | default: page.title }}</h1>
   <ul class="archive">
     {% for post in site.posts %}
