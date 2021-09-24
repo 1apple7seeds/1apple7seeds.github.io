@@ -4,41 +4,50 @@ permalink: "/resume/"
 layout: page
 ---
 
-## Installation
+## Work Experience
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+**Fraunhofer FKIE, Germany (2019-2021)**
+*Computer Vision Research Assistant*
 
-## Features
+- Supported the development of engineering projects in the field of computer vision for military drone-based applications.
+- Designed visual localization systems using Python and built virtual environments using ROS to simulate drones using such systems.
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+**CTIC UNI, Peru (2017-2018)**
+*Aerodynamics Engineer Consultant*
 
-## Based on
+- Supported the manufacturing of a hydrofoil craft for Hydro Contest 2018 in France.
+- Designed a hydrofoil using flow simulation and AutoCAD modeling, ultimately proposing a carbon fiber body with a fiberglass hydrofoil.
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+**Garrison Flight Research Center, United States (2016)**
+*Collision Avoidance Research Assistant*
 
-## Installation (jekyll-remote-theme method)
+- Supported the development of collision avoidance software in the field of risk mitigation for military drone-based applications.
+- Evaluated popular collision avoidance systems for UAVs in custom virtual environments using MATLAB.
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+## Education
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+**Hochschule Bonn-Rhein-Sieg, Germany (2018-2021)**
+*Master of Science in Autonomous Systems*
 
-plugins:
-  - jekyll-remote-theme
-```
+- Thesis on learning-based visual-inertial localization systems for autonomous drones
+- RoboCup 2019 World Championship with the university robotics team
 
-Note: to enable icons you also need to copy over the `_data` folder.
+**University of Kansas, United States (2013-2016)**
+*Bachelor of Science in Aerospace Engineering*
+
+- Graduated with Honors + Full -Tuition Scholarship
+- Elected as “Sophomore of the year” by the Aerospace Engineering department
+
+## Technical Skills
+
+- Operating systems: Linux, Windows
+- Programming languges: Python, C++, MATLAB, Java, R
+- Machine learning: Tensorflow
+- Modeling software: AutoCAD, Siemens NX
+- Other tools: ROS, Git, Jupyter Notebook, Excel, Tableau, Latex
+
+## Languages
+
+- English (Fluent)
+- Spanish (Native)
+- German (Basic)
