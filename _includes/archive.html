@@ -4,16 +4,16 @@
     
     <style type="text/css">
     #wrap {
-       width:800px;
+       width:600px;
        margin:0 auto;
     }
     #left_col {
        float:left;
-       width:200px;
+       width:150px;
     }
     #right_col {
        float:right;
-       width:600px;
+       width:450px;
     }
     </style>
     
@@ -22,10 +22,14 @@
         <img src="pic1.png" class="inline" width="161" height="266"/>
       </div>
       <div id="right_col">
-        <p>Hello ! I'm Carlo Wiesse.
-          I love drones and how these compact flying companions can provide information about their surroundings to help us solve so many problems.\nThe topic of my Master's thesis was learning-based visual-inertial localization systems for autonomous drones.\nFinally, I always look forward to joining a team of motivated and talented individuals. When I started my Master's, that team was the university robotics team. We won many national and international competitions together. So now I wish to join a new team as I believe we can achieve great things together.</p>
+        <ul>
+          <li>Hello ! I'm Carlo Wiesse.</li>
+          <li>I love drones and how these compact flying companions can provide information about their surroundings to help us solve so many problems.</li>
+          <li>The topic of my Master's thesis was learning-based visual-inertial localization systems for autonomous drones.\nFinally, I always look forward to joining a team of motivated and talented individuals. When I started my Master's, that team was the university robotics team. We won many national and international competitions together. So now I wish to join a new team as I believe we can achieve great things together.</li>
+        </ul>
       </div>
     </div>
+    
     <h1>{{ include.title | default: page.title }}</h1>
   </header>
   <ul class="archive">
