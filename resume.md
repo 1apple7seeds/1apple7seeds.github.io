@@ -38,9 +38,9 @@ layout: page
 
 **University of Kansas, United States (2013-2016)**
 
-*Bachelor of Science in Aerospace Engineering*
+*Bachelor of Science (Honors) in Aerospace Engineering*
 
-- Graduated with Honors + Full -Tuition Scholarship
+- Full-Tuition Scholarship
 - Elected as “Sophomore of the year” by the Aerospace Engineering department
 
 ## Technical Skills
