@@ -1,25 +1,16 @@
 .title
   font-size: 1.25em
 
-.intro {
+.intro
+  &,__pre,__post
+    text-transform: uppercase
+    letter-spacing: 4px
 
-    &__pre, &__post {
-        text-transform: uppercase;
-        letter-spacing: 4px;
-    }
-
-    &__main {
-        font-size: 1.8rem;
-        line-height: 1.2;
-        font-weight: bold;
-        margin: 10px 0 20px;
-
-        @media(min-width: 640px) {
-            font-size: 2.2rem;
-            max-width: 60%;
-        }
-    }
-}
+  &,__main
+    font-size: 1.8rem
+    line-height: 1.2
+    font-weight: bold
+    margin: 10px 0 20px
 
 .more
   margin: 2em 0 1em
