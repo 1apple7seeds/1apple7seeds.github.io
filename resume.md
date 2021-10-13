@@ -41,7 +41,7 @@ layout: page
 *Bachelor of Science (Honors) in Aerospace Engineering*
 
 - Full-Tuition Scholarship
-- Elected as “Sophomore of the year” by the Aerospace Engineering department
+- Vice-president of the International Student Engineering Association (iSEA)
 
 ## Technical Skills
 
@@ -49,7 +49,7 @@ layout: page
 - Programming languages: Python, C++, MATLAB, Java, R
 - Machine learning: Tensorflow
 - Modeling software: AutoCAD, Siemens NX
-- Other tools: ROS, Git, Jupyter Notebook, Excel, Tableau, Latex
+- Other tools: ROS, OpenCV, Jupyter Notebooks, Latex, Git, Tableau, Excel
 
 ## Languages
 
