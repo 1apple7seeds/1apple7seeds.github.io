@@ -10,22 +10,26 @@ layout: page
 
 *Computer Vision Research Assistant*
 
-- Supported the development of engineering projects in the field of computer vision for military drone-based applications.
-- Designed visual localization systems using Python and built virtual environments using ROS to simulate drones using such systems.
+- Supported engineering projects in the field of computer vision for autonomous drones.
+- Implemented proof-of-concept ideas involving machine learning using C++ and Python.
+- Designed automated developer tools to test my code.
+- Created ROS packages based on my proof-of-concept implementations.
+- Built virtual environments on Gazebo to simulate drones using my ROS packages.
+- Proposed an alternative odometry system for drones, which became my Master’s thesis.
 
 **CTIC UNI, Peru (2017-2018)**
 
 *Aerodynamics Engineer Consultant*
 
 - Supported the manufacturing of a hydrofoil craft for Hydro Contest 2018 in France.
-- Designed a hydrofoil using flow simulation and AutoCAD modeling, ultimately proposing a carbon fiber body with a fiberglass hydrofoil.
+- Designed a hydrofoil using flow simulation and 3D modeling.
 
 **Garrison Flight Research Center, United States (2016)**
 
 *Collision Avoidance Research Assistant*
 
-- Supported the development of collision avoidance software in the field of risk mitigation for military drone-based applications.
-- Evaluated popular collision avoidance systems for UAVs in custom virtual environments using MATLAB.
+- Developed collision avoidance software for autonomous drones.
+- Tested collision avoidance systems for drones in virtual environments using MATLAB.
 
 ## Education
 
@@ -33,7 +37,7 @@ layout: page
 
 *Master of Science in Autonomous Systems*
 
-- Thesis on learning-based visual-inertial localization systems for autonomous drones
+- Thesis on visual-inertial localization systems for autonomous drones using machine learning
 - RoboCup 2019 World Championship with the university robotics team
 
 **University of Kansas, United States (2013-2016)**
@@ -46,10 +50,11 @@ layout: page
 ## Technical Skills
 
 - Operating systems: Linux, Windows
-- Programming languages: Python, C++, MATLAB, Java, R
-- Machine learning: Tensorflow
-- Modeling software: AutoCAD, Siemens NX
-- Other tools: ROS, OpenCV, Jupyter Notebooks, Latex, Git, Tableau, Excel
+- Programming languages: Python, C++, MATLAB, Java
+- Other tools: Tensorflow, ROS, OpenCV, Jupyter Notebooks, Git, Latex, Tableau
+
+## Publications
+*b-it-bots: Our Approach for Autonomous Robotics in Industrial Environments*. RoboCup 2019.
 
 ## Languages
 
