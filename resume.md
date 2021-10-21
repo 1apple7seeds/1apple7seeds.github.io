@@ -4,6 +4,8 @@ permalink: "/resume/"
 layout: page
 ---
 
+I recently earned my Master’s degree in the field of Computer Science with a focus on autonomous systems. During my Master’s, I joined Fraunhofer as a research assistant to learn about localization, path planning, and navigation for autonomous drones. I also joined the university robotics team and gained experience with object recognition and robot arm manipulation for autonomous mobile robots. I’m currently working on publishing my Master’s thesis at a scientific conference with the support of Fraunhofer and my university.
+
 ## Work Experience
 
 **Fraunhofer FKIE, Germany (2019-2021)**
