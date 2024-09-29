@@ -4,9 +4,17 @@ permalink: "/resume/"
 layout: page
 ---
 
-I recently earned my Master’s degree in the field of Computer Science with a focus on autonomous systems. During my Master’s, I joined Fraunhofer as a research assistant to learn about localization, path planning, and navigation for autonomous drones. I also joined the university robotics team and gained experience with object recognition and robot arm manipulation for autonomous mobile robots. I’m currently working on publishing my Master’s thesis at a scientific conference with the support of Fraunhofer and my university.
+I earned my Master’s degree in the field of Computer Science with a focus on autonomous systems. During my Master’s, I joined Fraunhofer as a research assistant to learn about localization, path planning, and navigation for autonomous drones. I also joined the university robotics team and gained experience with object recognition and robot arm manipulation for autonomous mobile robots. After my studies in Germany, I joined A*STAR as a research engineer to work on computer vision with robots. I’m currently working on multiple industry projects in Singapore and having fun with robots.
 
 ## Work Experience
+
+**A*STAR ARTC, Singapore (2022-2024)**
+
+*Senior Research Engineer*
+
+- Worked on industry projects providing computer vision solutions for robotic-based applications.
+- Designed visual localization systems for mobile manipulators using C++ and Python with ROS.
+- Trained neural networks for reinforcement learning scenarios and object detection from images.
 
 **Fraunhofer FKIE, Germany (2019-2021)**
 
